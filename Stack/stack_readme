@@ -1,0 +1,10 @@
+STACK ADT :
+1. LIFO { Last In First Out } Similar to a stack of plates in the cafeteria. 
+The one kept at the bottom at first cant be removed unless the top plates are removed
+2. Implementation can be done as an array or a list
+3. Main Functions :
+    a. PUSH( X ) : Pushing Element X onto the stack
+    b. POP (  ) : Always pops out the top most Element
+    c. Peek() : Always tells the topmost element of the stack, without removing it 
+    d. IsEmpty( ) : informs if the stack is empty 
+     
