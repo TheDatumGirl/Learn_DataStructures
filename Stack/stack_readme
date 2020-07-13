@@ -7,4 +7,22 @@ The one kept at the bottom at first cant be removed unless the top plates are re
     b. POP (  ) : Always pops out the top most Element
     c. Peek() : Always tells the topmost element of the stack, without removing it 
     d. IsEmpty( ) : informs if the stack is empty 
-     
+
+4. TO DO:
+    Implementation with Queue
+    2 stacks in an array
+    Designa  stack that supports getMin in o(1) time and space complexity
+    implement stack with priorityu queue or heap
+    Infix to Postfix using stack
+    prefix to Infix
+    prefix to Postfix
+    the stock span problem
+    balanced parenthesis
+    next greater element
+    next greater frequency element
+    number of NGEs to the right
+    maximum product of indexes of next greater  on left and right
+    The celebrity problem
+    expression evaluation
+    https://www.geeksforgeeks.org/stack-data-structure/
+    
