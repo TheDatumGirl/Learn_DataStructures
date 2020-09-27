@@ -1,0 +1,2 @@
+##Problem Statement : We have a bag of some fixed total weight. We also have a few mentioned objects each with some profit and weights
+Optimization problem : Maximize profit while constraint is total weight of items chosen should be lesser than equal to total weight
